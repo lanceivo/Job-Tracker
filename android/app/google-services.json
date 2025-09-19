@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "290330101499",
+    "project_id": "job-tracker-plip0o",
+    "storage_bucket": "job-tracker-plip0o.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290330101499:android:e58fe20c1e97780641125e",
+        "android_client_info": {
+          "package_name": "com.mycompany.jobtracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA1Pxwc5t2jEFt5-EsNxLmBJfkVhKaF2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
